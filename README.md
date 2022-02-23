@@ -45,7 +45,8 @@ Python, Pandas, ML
 2020 KSMCB 'Elucidating the inhibitory role of PIWI/piRNAs in axon regeneration' 포스터 발표  
 2021 Processes 'The Regulation and Role of piRNAs and PIWI Proteins in Cancer' 논문 출간  
 2021 나노폴리스티렌(nanopolystyrene)의 신경 독성 연구  
-2022 한국분자세포생물학회 포스터 발표  
+2022 KSMCB 'Study on the physiological effect of microplastics in *Caenorhabditis elegans*' 포스터 발표
+  
 
 🌳Ecology  
 2018 - 2021 한림대학교 강원도연합생태동아리  
