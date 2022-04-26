@@ -1,7 +1,7 @@
 - 👋 Hi, I’m dnayoung who study neurobiology master's course at Hallym University 
 - 👀 I’m interested in biology, chemistry, machine learing
 - 🌱 I had currently learned python, numpy, pandas, machine learning
-- 💞️ I’m looking to collaborate on biophysics data processing
+- 💞️ I’m looking to collaborate on data processing of biophysics  
 - 📫 How to reach me 'jay21250125@gmail.com'
 
 ## I'm gonna...
