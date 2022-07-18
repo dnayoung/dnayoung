@@ -10,7 +10,7 @@
 생명을 이해하기 위한 전세계 과학자들과의 소통
 
 💡Plans  
-✔2022 한국분자세포생물학회 포스터 발표  
+✔2022 Korean C. elegans meeting 포스터 발표  
 ✔2022 환경독성보건학회 포스터 발표  
 ✔2022 국가R&D 리얼챌린지 프로그램  
 ✔2022 RNA 시퀀싱 데이터 분석  
@@ -50,7 +50,7 @@ Python, Pandas, ML
 2020 KSMCB 'Elucidating the inhibitory role of PIWI/piRNAs in axon regeneration' 포스터 발표  
 2021 Processes 'The Regulation and Role of piRNAs and PIWI Proteins in Cancer' 논문 출간  
 2021 나노폴리스티렌(nanopolystyrene)의 신경 독성 연구  
-2022 KSMCB 'Study on the physiological effect of microplastics in *Caenorhabditis elegans*' 포스터 발표
+2022 Korean C. elegans meeting 'Study on the physiological effect of microplastics in *Caenorhabditis elegans*' 포스터 발표
   
 
 🌳Ecology  
