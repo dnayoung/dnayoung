@@ -30,7 +30,7 @@
 2021 한림대학교 생명과학과 석사 입학  
 
 🖨Skills  
-Python, , Pandas, ML  
+Python, R, Pandas, ML  
 어도비 일러스트, 포토샵, 어플 블로 영상 편집, 기사 작성  
 
 🍳Interested in  
