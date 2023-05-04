@@ -12,6 +12,7 @@
 💡Plans  
 ✔️2023 Korean C. elegans meeting 포스터 발표  
 ✔️2023 ImageJ를 활용한 wormtracking  
+✔️2023 아주대학교 공동연구  
 2023 SOP 작성  
 2023 TOEFL 100점 달성  
 2023 해외공동지도교수님과 연구 성과 공유  
