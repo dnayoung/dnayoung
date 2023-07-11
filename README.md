@@ -10,7 +10,7 @@
 생명을 이해하기 위한 전세계 과학자들과의 소통
 
 💡Plans  
-✔️2023 Korean C. elegans meeting 포스터 발표  
+✔️2023 Korean C. elegans meeting 포스터 발표 ⭐What's hot 포스터 선정  
 ✔️2023 ImageJ를 활용한 wormtracking  
 ✔️2023 아주대학교 공동연구  
 2023 SOP 작성  
